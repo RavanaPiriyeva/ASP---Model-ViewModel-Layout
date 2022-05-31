@@ -1,0 +1,37 @@
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.AssemblyReference.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\staticwebassets\Task 1.StaticWebAssets.Manifest.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.RazorTargetAssemblyInfo.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.Views.dll
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.Views.pdb
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.RazorAssemblyInfo.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.RazorAssemblyInfo.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.TagHelpers.input.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.TagHelpers.output.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.RazorCoreGenerate.cache
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.RazorTargetAssemblyInfo.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.Views.pdb
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CopyComplete
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Service.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\DERS\Desktop\Asp\ASP - Model, ViewModel, Layout 30.5.22\Task 1\Task 1\obj\Debug\netcoreapp3.1\Razor\Views\Feature\Detail.cshtml.g.cs
